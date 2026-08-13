@@ -7,6 +7,7 @@ const HTML = `<!DOCTYPE html>
 <meta name="description" content="2026년 동탄에서 지금 가장 뜨는 야간 핫플. 동탄 하이퍼블릭 — 프리미엄 사운드, 전용 무대, 동탄 전 지역 무료 픽업.">
 <link rel="canonical" href="https://dongtanhighpublic-deno.kangtaewoo1.deno.net/">
 <meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="google-site-verification" content="qZlN5mUGZwIKb2e77KT573Vd0SojHxnpdqx4Z7WyBtc" />
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{--bg:#060606;--surface:#0e0e0e;--gold:#C9A84C;--gold2:#E8C96A;--gold-dim:#6b5a28;--text:#F0EAD6;--muted:#777;--border:#222}
